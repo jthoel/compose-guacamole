@@ -1,5 +1,8 @@
 # compose-guacamole
 
+This repository is forked from [BrowncoatShadow/compose-guacamole](https://github.com/BrowncoatShadow/compose-guacamole), added some translation in Chinese and the guacamole is up to date.
+
+
 [Guacamole](https://guacamole.incubator.apache.org/) is a really useful tool,
 but can be difficult to setup properly. The deployment  process can be greatly
 simplified using docker containers, and orchestrated using `docker-compose`.
